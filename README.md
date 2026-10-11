@@ -6,7 +6,7 @@ Empresas de logística precisam estimar o custo do frete com base em peso, preç
 ## 💡 Solução
 Modelo de Machine Learning (Decision Tree) treinado com dados reais de e-commerce (Olist) e dashboard interativo com Streamlit.
 
-🔗 **Acesse:** [calculo-frete.streamlit.app](https://https://calculo-frete-xqgnh9kclauananmzfflae.streamlit.app)
+🔗 **Acesse:** [calculo-frete.streamlit.app](https://calculo-frete-xqgnh9kclauananmzfflae.streamlit.app)
 
 ## 🎯 Resultados
 - **Modelo:** Decision Tree com R² de 0.XX
