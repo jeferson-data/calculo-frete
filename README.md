@@ -34,3 +34,10 @@ calculo-frete/
 ```bash
 pip install -r requirements.txt
 streamlit run src/dashboard.py
+
+📬 Contato
+Jeferson Gomes
+
+LinkedIn
+
+GitHub
